@@ -1,0 +1,36 @@
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.deps.json
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.deps.json
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.deps.json
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.deps.json
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.AssemblyReference.cache
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfoInputs.cache
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.AssemblyInfo.cs
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.csproj.CoreCompileInputs.cache
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.dll
+D:\ShopApp-main - Copy\ShopApp\ShopAppLibrary\obj\Debug\netcoreapp3.1\ShopAppLibrary.pdb

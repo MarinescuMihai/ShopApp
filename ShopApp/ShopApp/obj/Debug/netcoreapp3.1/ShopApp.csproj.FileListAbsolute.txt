@@ -1,0 +1,72 @@
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.ShopForm.resources
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Hp\Desktop\ShopAppGit\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.ShopForm.resources
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Mihai\Desktop\ShopApp-main\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.ShopForm.resources
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\Mihai\Desktop\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.dll
+D:\ShopApp-main - Copy\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopAppLibrary.pdb
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.AssemblyReference.cache
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.ShopForm.resources
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.GenerateResource.cache
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+D:\ShopApp-main - Copy\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
